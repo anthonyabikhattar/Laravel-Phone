@@ -1,5 +1,5 @@
 {
-    "name": "propaganistas/laravel-phone",
+    "name": "anthonyabikhattar/laravel-phone",
     "description": "Adds phone number functionality to Laravel based on Google's libphonenumber API.",
     "keywords": [
         "laravel",
@@ -19,7 +19,7 @@
         "illuminate/contracts": "^8.9|^9.0",
         "illuminate/support": "^8.0|^9.0",
         "illuminate/validation": "^8.0|^9.0",
-        "giggsey/libphonenumber-for-php": "^7.0|^8.0"
+        "anthonyabikhattar/libphonenumber-for-php": "dev-main"
     },
     "require-dev": {
         "orchestra/testbench": "*",
